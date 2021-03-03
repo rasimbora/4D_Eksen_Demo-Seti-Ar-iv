@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {"name": "1"},
+      "properties": {
+        "name": 1
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -34,7 +36,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"name": "2"},
+      "properties": {
+        "name": 2
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -65,7 +69,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"name": "3",},
+      "properties": {
+        "name": 3
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -96,7 +102,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"name": "4"},
+      "properties": {
+        "name": 4
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -127,7 +135,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"name": "5"},
+      "properties": {
+        "name": 5
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
