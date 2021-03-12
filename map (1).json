@@ -79,12 +79,12 @@
         ]
       },
       "properties": {
-        "borderColor": "#FF0000",
-        "color": "#800000",
+        "borderColor": "#F00000",
+        "color": "#99900000",
         "notificationEnabled": true,
-        "notificationData": "GEO820",
-        "color": "#800000",
-        "transparency": 50
+        "notificationData": "GEO132",
+        "color": "#99900000",
+        "transparency": 9
       }
     }
   ]
